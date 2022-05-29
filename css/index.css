@@ -41,18 +41,7 @@
      
        
        
-        /*
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 31px;
-    letter-spacing: 0.03em;
-    color: #2196F3;
-    width: 145px;
-    height: 31px;
-    left: 215px
-   }*/
+    
 
     .logo-accent{
     color: var(--title-text-color);
@@ -168,7 +157,7 @@
     }
 
 
- /*--------------------------------------hero--------------------------------------------------------- */
+ /*--------------------------------------блок-герой--------------------------------------------------------- */
 
 
     .hero-title { 
@@ -224,7 +213,7 @@
   
     
     
-/*-------------------------------------------------------характеристика компании-----------------------------*/
+/*-------------------------------------характеристика компании-----------------------------*/
 
 .features {
     font-size: 14px;
@@ -271,6 +260,10 @@
 
 }
 
+
+/*-------------------------------------------Подвал------------------------------------------*/
+
+
 .footer-address-link{
     font-style: normal;
     font-size: 14px;
@@ -308,45 +301,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*    color: aqua;
-    font-family: "Raleway", sans-serif; 
-    background-color: aquamarine;
-    text-align: center;
-    font-weight: 700;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 32px;*/
-/*--------------------------------------------------------
-.h1{
-    text-align:right;
-}
-
-.button{
-    margin-left;
-    text-align: left;
-
-}
-
-
-/*.social-links  .link{
-    color: aquamarine;
-}
-
-.social-links .link:hover{
-    color: #2196F3;
-}
-.social-links::focus{
-    color:rgb(220, 1, 8);
-}
