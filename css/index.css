@@ -240,15 +240,7 @@
     letter-spacing: 0.03em;
     color: var(--title-text-color);
 }
-/*
-.team{
-    font-size: 36px;
-    line-height: 42px;
-    text-align: center;
-    letter-spacing: 0.03em;
 
-}
-*/
 .team-name{
     font-weight: 500;
     font-size: 16;
