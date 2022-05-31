@@ -18,7 +18,7 @@
     
     
     body {
-    font-family: "Roboto" ,sans-serif;
+    font-family: "Roboto",sans-serif;
     color: var(--text-color);
     background-color: var(--primary-bg-color);
     font-size: 14px;
@@ -203,7 +203,7 @@
     }
 
     .button-list .current,
-    .button.secondary.hover,
+    .button.secondary:hover,
     .button.secondary:focus{
         color: var(--first-contrast-text-color);
         background-color: var(--accent-color);
@@ -242,8 +242,8 @@
 }
 
 .team{
-    font-size: 16px;
-    line-height: 1.18;
+    font-size: 36px;
+    line-height: 42px;
     text-align: center;
     letter-spacing: 0.03em;
 
@@ -251,7 +251,8 @@
 
 .team-name{
     font-weight: 500;
-    font-size: 42;
+    font-size: 16;
+    line-height: 19px;
     color: var(--title-text-color);
 
 }
